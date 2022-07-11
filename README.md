@@ -41,7 +41,7 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE] file.
 
 
 Made with :heart: by <a href="https://github.com/Akhil-EM" target="_blank">AKHIL E M</a>
