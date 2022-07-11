@@ -24,19 +24,13 @@ Before starting :checkered_flag:, you need to have [Node](https://nodejs.org/en)
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/api-skelton
+# copy files to root  (windows)
+$ start "node_modules/start node_modules/express-api-skelton/run.bat"
 
-# Access
-$ cd api-skelton
+# change details in src/config/app.config
+# run nodemon app.js or node app.js
+# your server running on http://localhost:3000
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 Made with :heart: by <a href="https://github.com/Akhil-EM" target="_blank">AKHIL E M</a>
