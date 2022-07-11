@@ -2,30 +2,10 @@
   <img src="./.github/app.gif" alt="Api Skelton" />
 
   &#xa0;
-
-  <!-- <a href="https://apiskelton.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Express js API skelton</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/api-skelton?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/api-skelton?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/api-skelton?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/api-skelton?color=56BEB8">
-
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Api Skelton 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <br>
 
