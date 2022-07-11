@@ -4,7 +4,7 @@
   &#xa0;
 </div>
 
-<h1 align="center">Express js API skelton</h1>
+<h1 align="center">Express js API scaffold</h1>
 
 
 <br>
