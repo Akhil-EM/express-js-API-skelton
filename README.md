@@ -11,7 +11,7 @@
 
 ## :dart: About ##
 
-Just a skelton project to getting started with express js API development.
+Scaffold project to getting started with express js API development.
 
 The following tools were used in this project:
 
