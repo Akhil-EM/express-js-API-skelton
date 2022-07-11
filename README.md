@@ -25,7 +25,7 @@ Before starting :checkered_flag:, you need to have [Node](https://nodejs.org/en)
 
 ```bash
 # copy files to root  run using cmd in project root
-$ start "node_modules/start node_modules/express-api-skelton/run.bat"
+$ start "node_modules/start node_modules/expressjs-scaffold/run.bat"
 
 # change details in src/config/app.config
 # run nodemon app.js or node app.js
